@@ -14,7 +14,7 @@ git clone https://github.com/Fii-XD/FbCrack
 
 cd FbCrack
 
-python private.py
+python Free.py
 
 ### NOTE : SCRIPT FREE,, DAN JIKA TIDAK ADA HASIL GUNAKAN UA MANUAL SAJA
 
